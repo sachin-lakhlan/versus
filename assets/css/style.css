@@ -47,19 +47,18 @@
     color: #1F272E;
 }
 
-.Signin-btn {
+.Signup-btn {
     width: 94;
     height: 40;
     padding: 12px 16px 12px 16px;
     gap: 4px;
     border-radius: 16px;
-    background-color: var(--dark-yellow);
+    background-color: #D4FF27;
     transition: all 200ms linear;
 }
 
-.Signin-btn:hover {
-    background-color: #1F272E;
-    color: #D4FF27;
+.Signup-btn:hover {
+    background-color: #9dba2b;
 }
 
 .btn {
@@ -116,6 +115,11 @@
     max-width: 835px;
 }
 
+/* section-1 */
+.mt-95 {
+    margin-top: 95px;
+}
+
 /* section-2 */
 .section-2-bg {
     background-image: url(../image/png/section-2-bg.png);
@@ -139,23 +143,6 @@
 .mb-103 {
     margin-bottom: 103px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* section-3 */
 .section-3-bg {
