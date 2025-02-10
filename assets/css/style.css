@@ -120,7 +120,8 @@
 .section-2-bg {
     background-image: url(../image/png/section-2-bg.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
+    background-position: center;
 }
 
 .mx-w-331 {
@@ -131,8 +132,13 @@
     margin-top: 54px;
 }
 
+.mt-48 {
+    margin-top: 48px;
+}
 
-
+.mb-103 {
+    margin-bottom: 103px;
+}
 
 
 
