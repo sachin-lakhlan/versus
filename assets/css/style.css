@@ -120,6 +120,11 @@
     margin-top: 95px;
 }
 
+.section-2-h3 {
+    top: 13%;
+    left: 45%;
+}
+
 /* section-2 */
 .section-2-bg {
     background-image: url(../image/png/section-2-bg.png);
@@ -148,7 +153,7 @@
 .section-3-bg {
     background-image: url(../image/png/section-3-bg.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .mx-w-1344 {
